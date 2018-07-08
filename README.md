@@ -1,2 +1,3 @@
 # Tulasi
-Unicode font for Malayalam language
+Unicode font for Malayalam language.
+This font is open-source.
